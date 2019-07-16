@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/6/4 15:55:52。
+     1>项目“F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\实验10 文件系统\实验10 文件系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt FileManage.c
+         FileManage.c
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(7): warning C4101: “i”: 未引用的局部变量
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>f:\2018-2019第2学期\操作系统实践\操作系统实践ppt\实验10 文件系统\实验10 文件系统\filemanage.c(138): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\Debug\实验10 文件系统.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\Debug\实验10 文件系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\Debug\实验10 文件系统.lib" /MACHINE:X86 Debug\List.obj
+         Debug\main.obj
+         Debug\FileManage.obj
+         实验10 文件系统.vcxproj -> F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\Debug\实验10 文件系统.exe
+     1>已完成生成项目“F:\2018-2019第2学期\操作系统实践\操作系统实践PPT\实验10 文件系统\实验10 文件系统\实验10 文件系统.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.41

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验04 避免死锁(1)", "实验04 避免死锁(1)\实验04 避免死锁(1).vcxproj", "{FD28202A-C779-4A5F-98B2-5AA747FC62FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD28202A-C779-4A5F-98B2-5AA747FC62FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD28202A-C779-4A5F-98B2-5AA747FC62FC}.Debug|Win32.Build.0 = Debug|Win32
+		{FD28202A-C779-4A5F-98B2-5AA747FC62FC}.Release|Win32.ActiveCfg = Release|Win32
+		{FD28202A-C779-4A5F-98B2-5AA747FC62FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
