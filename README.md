@@ -1,2 +1,2 @@
-# course-os-practice
-基础课程，《操作系统实践》课程仓库
+# -Operating-System-Practice
+操作系统实践课程内容
